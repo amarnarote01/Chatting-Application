@@ -29,10 +29,6 @@ https://github.com/aniket22n/Chatting-Application/assets/69907734/21966416-78bb-
 - Zod for validation
 - Cookies based authentication
 
-### **Deployment:**
-
-- AWS and Netlify
-- [link to App](https://chat.aniket22n.com/)
 
 
 
